@@ -10,6 +10,3 @@ Representational state transfer
 
 To run:
 $ python server.py
-
-Update:
-Project was broken due to dependencies being updated (flask)
